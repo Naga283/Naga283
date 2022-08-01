@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **AWS,Ethical Hacking**
 
-- 🤝 I’m looking for help with **Flutter,Firebase,Html,Css**
-
 - 💬 Ask me about **Flutter,Firebase**
 
 - 📫 How to reach me **nagabhaskar759@gmail.com**
