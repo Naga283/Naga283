@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Suraksha**
 
-- 🌱 I’m currently learning **AWS,Ethical Hacking**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Flutter,Firebase**
 
