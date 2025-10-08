@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naga283&label=Profile%20views&color=0e75b6&style=flat" alt="naga283" /> </p>
 
-- 🔭 I’m currently working on **Seyasoft Technology Solutions Pvt Ltd**
+- 🔭 I’m currently working on **Urban School Services Pvt Ltd**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Flutter,Firebase**
 
